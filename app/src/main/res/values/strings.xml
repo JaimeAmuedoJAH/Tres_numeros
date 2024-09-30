@@ -1,0 +1,12 @@
+<resources>
+    <string name="str_btn_menor">Menor</string>
+    <string name="str_btn_mayor">Mayor</string>
+    <string name="str_btn_asc">Asc</string>
+    <string name="str_btn_desc">Desc</string>
+    <string name="str_btn_Borrar">Borrar</string>
+    <string name="app_name">Tres_numeros</string>
+    <string name="str_lblNum1">Número 1:</string>
+    <string name="str_lblNum2">Número 2:</string>
+    <string name="str_lblNum3">Número 3:</string>
+    <string name="str_hint">Introduce un número</string>
+</resources>
